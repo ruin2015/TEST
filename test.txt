@@ -1,0 +1,2 @@
+tsuchi
+hp bar 追加
